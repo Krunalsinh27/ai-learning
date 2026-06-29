@@ -5,8 +5,8 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 ## Objective
 
 - Learn data manipulation using Pandas.
-- Work efficiently with tabular data.
-- Prepare for Machine Learning and Data Analysis.
+- Work efficiently with structured data.
+- Build a strong foundation for Data Analysis and Machine Learning.
 
 ---
 
@@ -22,6 +22,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 - Series
 - DataFrames
+- Missing Data Handling
 
 ---
 
@@ -29,6 +30,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 - 01_series.ipynb
 - 02_DataFrames.ipynb
+- 03_MissingData.ipynb
 
 ---
 
@@ -36,13 +38,14 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 - [x] Series
 - [x] DataFrames
-- [ ] Reading CSV Files
-- [ ] Data Selection
-- [ ] Filtering
-- [ ] Missing Values
-- [ ] Sorting
-- [ ] GroupBy
+- [x] Missing Data
 - [ ] Merge
+- [ ] Join
+- [ ] Concatenation
+- [ ] GroupBy
+- [ ] Sorting
+- [ ] Filtering
+- [ ] Reading CSV Files
 - [ ] Pivot Tables
 - [ ] Date & Time
 - [ ] String Operations
@@ -53,14 +56,16 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 - Creating Series
 - Creating DataFrames
-- Accessing Data
-- Understanding Pandas Objects
+- Handling Missing Values
+- Detecting Null Values
+- Filling Missing Values
+- Dropping Missing Values
 
 ---
 
 ## Next Topic
 
-➡ Reading CSV Files
+➡ Merge, Join & Concatenation
 
 ---
 
