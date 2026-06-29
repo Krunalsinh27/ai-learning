@@ -7,7 +7,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 ## Objective
 
 - Learn data manipulation using Pandas.
-- Work efficiently with structured data.
+- Work efficiently with structured and tabular data.
 - Build a strong foundation for Data Analysis and Machine Learning.
 
 ---
@@ -28,6 +28,8 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - Merging
 - Joining
 - Concatenation
+- GroupBy
+- Aggregation
 
 ---
 
@@ -36,7 +38,8 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - 01_series.ipynb
 - 02_DataFrames.ipynb
 - 03_MissingData.ipynb
-- 04_MergingJoiningConcatination.ipynb
+- 04_Merging_Joining_Concatenation.ipynb
+- 05_GroupBy_Aggregation.ipynb
 
 ---
 
@@ -48,12 +51,13 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - [x] Merge
 - [x] Join
 - [x] Concatenation
-- [ ] GroupBy
-- [ ] Aggregation
+- [x] GroupBy
+- [x] Aggregation
+- [ ] Pivot Table
+- [ ] MultiIndex
 - [ ] Sorting
 - [ ] Filtering
 - [ ] Reading CSV Files
-- [ ] Pivot Tables
 - [ ] Date & Time
 - [ ] String Operations
 - [ ] Apply()
@@ -68,15 +72,18 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - Creating DataFrames
 - Handling Missing Values
 - Filling & Dropping Missing Data
-- Combining DataFrames
-- SQL-style Joins
-- Concatenating Multiple DataFrames
+- Merging DataFrames
+- Joining DataFrames
+- Concatenating DataFrames
+- Grouping Data
+- Aggregating Data
+- Performing Statistical Analysis
 
 ---
 
 ## Next Topic
 
-➡ GroupBy & Aggregation
+➡ Pivot Table
 
 ---
 
