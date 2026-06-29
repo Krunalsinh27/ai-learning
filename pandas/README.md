@@ -6,9 +6,9 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 ## Objective
 
-- Learn data manipulation using Pandas.
-- Work efficiently with structured and tabular data.
-- Build a strong foundation for Data Analysis and Machine Learning.
+- Learn data manipulation and analysis using Pandas.
+- Work efficiently with structured and tabular datasets.
+- Build a strong foundation for Data Analysis, Machine Learning, and AI.
 
 ---
 
@@ -47,7 +47,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 - [x] Series
 - [x] DataFrames
-- [x] Missing Data
+- [x] Missing Data Handling
 - [x] Merge
 - [x] Join
 - [x] Concatenation
@@ -68,22 +68,20 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 ## Skills Learned
 
-- Creating Series
-- Creating DataFrames
+- Creating Series and DataFrames
+- Data Cleaning
 - Handling Missing Values
-- Filling & Dropping Missing Data
-- Merging DataFrames
-- Joining DataFrames
-- Concatenating DataFrames
+- Combining Multiple DataFrames
+- SQL-style Data Merging
 - Grouping Data
-- Aggregating Data
-- Performing Statistical Analysis
+- Statistical Aggregation
+- Exploratory Data Analysis (EDA) Fundamentals
 
 ---
 
 ## Next Topic
 
-➡ Pivot Table
+➡ Pivot Tables
 
 ---
 
