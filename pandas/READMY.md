@@ -2,6 +2,8 @@
 
 This folder documents my journey of learning **Pandas** as part of my AI Engineering roadmap.
 
+---
+
 ## Objective
 
 - Learn data manipulation using Pandas.
@@ -23,6 +25,9 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - Series
 - DataFrames
 - Missing Data Handling
+- Merging
+- Joining
+- Concatenation
 
 ---
 
@@ -31,6 +36,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - 01_series.ipynb
 - 02_DataFrames.ipynb
 - 03_MissingData.ipynb
+- 04_MergingJoiningConcatination.ipynb
 
 ---
 
@@ -39,16 +45,20 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - [x] Series
 - [x] DataFrames
 - [x] Missing Data
-- [ ] Merge
-- [ ] Join
-- [ ] Concatenation
+- [x] Merge
+- [x] Join
+- [x] Concatenation
 - [ ] GroupBy
+- [ ] Aggregation
 - [ ] Sorting
 - [ ] Filtering
 - [ ] Reading CSV Files
 - [ ] Pivot Tables
 - [ ] Date & Time
 - [ ] String Operations
+- [ ] Apply()
+- [ ] Map()
+- [ ] Replace()
 
 ---
 
@@ -57,15 +67,16 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - Creating Series
 - Creating DataFrames
 - Handling Missing Values
-- Detecting Null Values
-- Filling Missing Values
-- Dropping Missing Values
+- Filling & Dropping Missing Data
+- Combining DataFrames
+- SQL-style Joins
+- Concatenating Multiple DataFrames
 
 ---
 
 ## Next Topic
 
-➡ Merge, Join & Concatenation
+➡ GroupBy & Aggregation
 
 ---
 
