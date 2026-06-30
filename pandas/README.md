@@ -30,6 +30,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - Concatenation
 - GroupBy
 - Aggregation
+- Pivot Tables
 
 ---
 
@@ -40,6 +41,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - 03_MissingData.ipynb
 - 04_Merging_Joining_Concatenation.ipynb
 - 05_GroupBy_Aggregation.ipynb
+- 06_Pivot_Tables.ipynb
 
 ---
 
@@ -53,16 +55,16 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - [x] Concatenation
 - [x] GroupBy
 - [x] Aggregation
-- [ ] Pivot Table
-- [ ] MultiIndex
-- [ ] Sorting
-- [ ] Filtering
-- [ ] Reading CSV Files
-- [ ] Date & Time
+- [x] Pivot Tables
+- [ ] Operations
+- [ ] Reading CSV & Excel Files
+- [ ] Filtering & Sorting
 - [ ] String Operations
+- [ ] Date & Time
 - [ ] Apply()
 - [ ] Map()
 - [ ] Replace()
+- [ ] MultiIndex
 
 ---
 
@@ -71,17 +73,19 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - Creating Series and DataFrames
 - Data Cleaning
 - Handling Missing Values
-- Combining Multiple DataFrames
-- SQL-style Data Merging
+- Merging Multiple DataFrames
+- Joining DataFrames
+- Concatenating DataFrames
 - Grouping Data
-- Statistical Aggregation
-- Exploratory Data Analysis (EDA) Fundamentals
+- Aggregating Data
+- Creating Pivot Tables
+- Multi-level Data Summarization
 
 ---
 
 ## Next Topic
 
-➡ Pivot Tables
+➡ Operations
 
 ---
 
@@ -91,4 +95,4 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 Computer Engineering Student
 
-AI Engineering Roadmap 🚀
+Learning AI Engineering 🚀
