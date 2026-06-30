@@ -8,7 +8,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 
 - Learn data manipulation and analysis using Pandas.
 - Work efficiently with structured and tabular datasets.
-- Build a strong foundation for Data Analysis, Machine Learning, and AI.
+- Build a strong foundation for Data Analysis, Feature Engineering, Machine Learning, and AI.
 
 ---
 
@@ -31,6 +31,13 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - GroupBy
 - Aggregation
 - Pivot Tables
+- Operations
+- Filtering & Sorting
+- Apply()
+- Map()
+- Replace()
+- Date & Time Functions
+- MultiIndex
 
 ---
 
@@ -42,6 +49,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - 04_Merging_Joining_Concatenation.ipynb
 - 05_GroupBy_Aggregation.ipynb
 - 06_Pivot_Tables.ipynb
+- 07_Operations.ipynb
 
 ---
 
@@ -56,36 +64,85 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - [x] GroupBy
 - [x] Aggregation
 - [x] Pivot Tables
-- [ ] Operations
+- [x] Operations
+- [x] Filtering & Sorting
+- [x] Apply()
+- [x] Map()
+- [x] Replace()
+- [x] Date & Time Functions
+- [x] MultiIndex
+- [ ] Feature Extraction
 - [ ] Reading CSV & Excel Files
-- [ ] Filtering & Sorting
-- [ ] String Operations
-- [ ] Date & Time
-- [ ] Apply()
-- [ ] Map()
-- [ ] Replace()
-- [ ] MultiIndex
+- [ ] Final Pandas Project
 
 ---
 
 ## Skills Learned
 
 - Creating Series and DataFrames
-- Data Cleaning
+- Data Cleaning and Preprocessing
 - Handling Missing Values
-- Merging Multiple DataFrames
-- Joining DataFrames
+- Merging and Joining DataFrames
 - Concatenating DataFrames
-- Grouping Data
-- Aggregating Data
+- Grouping and Aggregating Data
 - Creating Pivot Tables
-- Multi-level Data Summarization
+- Arithmetic, Comparison and Logical Operations
+- Statistical Analysis
+- Filtering and Sorting Data
+- Applying Custom Functions
+- Mapping and Replacing Values
+- Working with Date & Time Data
+- Creating and Managing MultiIndex DataFrames
 
 ---
 
 ## Next Topic
 
-➡ Operations
+➡ Feature Extraction
+
+---
+
+## Learning Roadmap
+
+```text
+✅ Series
+        ↓
+✅ DataFrames
+        ↓
+✅ Missing Data
+        ↓
+✅ Merge, Join & Concatenation
+        ↓
+✅ GroupBy & Aggregation
+        ↓
+✅ Pivot Tables
+        ↓
+✅ Operations
+        ↓
+✅ Filtering & Sorting
+        ↓
+✅ Apply(), Map(), Replace()
+        ↓
+✅ Date & Time Functions
+        ↓
+✅ MultiIndex
+        ↓
+🔄 Feature Extraction
+        ↓
+⬜ Reading CSV & Excel Files
+        ↓
+⬜ Final Pandas Project
+        ↓
+Matplotlib
+        ↓
+Plotly
+        ↓
+EDA Projects
+        ↓
+Scikit-learn
+        ↓
+Machine Learning
+```
 
 ---
 
