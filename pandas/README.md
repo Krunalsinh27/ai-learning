@@ -31,13 +31,15 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - GroupBy
 - Aggregation
 - Pivot Tables
-- Operations
+- Data Operations
 - Filtering & Sorting
 - Apply()
 - Map()
 - Replace()
 - Date & Time Functions
 - MultiIndex
+- Feature Extraction
+- Pandas Exercises
 
 ---
 
@@ -50,6 +52,8 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - 05_GroupBy_Aggregation.ipynb
 - 06_Pivot_Tables.ipynb
 - 07_Operations.ipynb
+- 08_Feature_Extraction.ipynb
+- 09_Exercise.ipynb
 
 ---
 
@@ -71,9 +75,9 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - [x] Replace()
 - [x] Date & Time Functions
 - [x] MultiIndex
-- [ ] Feature Extraction
-- [ ] Reading CSV & Excel Files
-- [ ] Final Pandas Project
+- [x] Feature Extraction
+- [x] Pandas Exercises
+- [ ] Real-world Data Analysis Project
 
 ---
 
@@ -86,19 +90,20 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - Concatenating DataFrames
 - Grouping and Aggregating Data
 - Creating Pivot Tables
-- Arithmetic, Comparison and Logical Operations
-- Statistical Analysis
+- Arithmetic and Statistical Operations
 - Filtering and Sorting Data
 - Applying Custom Functions
 - Mapping and Replacing Values
 - Working with Date & Time Data
-- Creating and Managing MultiIndex DataFrames
+- MultiIndex Operations
+- Feature Engineering
+- Solving Pandas Practice Problems
 
 ---
 
-## Next Topic
+## Next Goal
 
-➡ Feature Extraction
+➡ Real-world Data Analysis Project
 
 ---
 
@@ -127,13 +132,15 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
         ↓
 ✅ MultiIndex
         ↓
-🔄 Feature Extraction
+✅ Feature Extraction
         ↓
-⬜ Reading CSV & Excel Files
+✅ Pandas Exercises
         ↓
-⬜ Final Pandas Project
+🔄 Real-world Data Analysis Project
         ↓
 Matplotlib
+        ↓
+Seaborn
         ↓
 Plotly
         ↓
