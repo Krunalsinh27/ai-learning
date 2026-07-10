@@ -77,7 +77,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
 - [x] MultiIndex
 - [x] Feature Extraction
 - [x] Pandas Exercises
-- [ ] Real-world Data Analysis Project
+- [x] Real-world Data Analysis Project
 
 ---
 
@@ -136,7 +136,7 @@ This folder documents my journey of learning **Pandas** as part of my AI Enginee
         ↓
 ✅ Pandas Exercises
         ↓
-🔄 Real-world Data Analysis Project
+✅ Real-world Data Analysis Project
         ↓
 Matplotlib
         ↓
